@@ -8,7 +8,7 @@ public class atm {
         Scanner sc = new Scanner(System.in);
         int amn =0;
         int cas = 0;
-        System.out.print("WELCOME TO SBI");
+    
         System.out.println("Enter PIN");
         int pin = sc.nextInt();
         if (pin == 7499) {
